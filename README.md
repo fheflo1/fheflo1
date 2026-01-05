@@ -6,7 +6,7 @@ I'm currently pursuing a Master's in Data Science 📚, passionate about explori
 
 ### 🔍 **I'm interested in:**
 - 🤖 Machine Learning (ML) and Large Language Models (LLMs)
-- 🧠 Deep Learning, particularly in coumputer vision, NLP and Automation 
+- 🧠 Deep Learning, particularly in computer vision, NLP and Automation 
 - 📊 Algorithms, Complexity Theory, and Efficient Data Processing
 - ⚡ Practical applications of ML to real-world problems
 
