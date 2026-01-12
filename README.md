@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @fheflo1!
+# 👋 Hi, I'm Fabian!
 
 I'm currently pursuing a Master's in Data Science 📚, passionate about exploring the exciting intersection of **Machine Learning**, **Algorithms**, and **Complex Data Analysis**.
 
