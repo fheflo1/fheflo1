@@ -26,6 +26,11 @@ I'm currently pursuing a Master's in Data Science 📚, passionate about explori
 
 ---
 
+### Repo from Internship
+- https://github.com/kartverket/FindinGeo
+
+---
+
 ### 📫 **How to reach me:**
 - Email: fheflo@gmail.com
 - LinkedIn: www.linkedin.com/in/fabian-heflo-393b7826a
