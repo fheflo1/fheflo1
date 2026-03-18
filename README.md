@@ -27,6 +27,7 @@ I'm currently pursuing a Master's in Data Science 📚, passionate about explori
 ---
 
 ### Repo from Internship
+- https://github.com/kartverket/Snuplasser
 - https://github.com/kartverket/FindinGeo
 
 ---
